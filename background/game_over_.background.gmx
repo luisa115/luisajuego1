@@ -15,5 +15,5 @@
   <For3D>0</For3D>
   <width>640</width>
   <height>480</height>
-  <data>images\background0.png</data>
+  <data>images\game_over_.png</data>
 </background>
